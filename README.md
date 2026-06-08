@@ -1,26 +1,27 @@
-# 👋 Hi, I'm [Your Name] 
+# 👋 Hi, I'm Devyansh 
 
-* **What I Do:** Focus heavily on the Python ecosystem and its frameworks to build functional, interactive applications.
-* **My Philosophy:** I bypass abstract theoretical puzzles to focus my energy on creating realistic, user-centric tools that solve subtle, everyday challenges.
+**B.Tech IT Student | Python Enthusiast**  
+
+* **Who I Am:** A B.Tech Information Technology student focused on mastering the Python ecosystem.
+* **My Approach:** Instead of chasing abstract theoretical puzzles, I prefer spending my time learning how to build realistic, interactive applications that solve subtle, everyday challenges.
+* **What I'm Building:** Currently moving past the basics to integrate data manipulation and machine learning into functional software.
+
 
 ### 🛠️ Tech Toolkit & Focus Areas
-| Category | Technologies |
+| Category | Technologies & Libraries |
 | :--- | :--- |
-| **Primary Language** | Python (My absolute favorite) |
-| **Frameworks & UI** | [e.g., Flask, Django, CustomTkinter] |
-| **Core Interests** | Interactive GUIs, Web Apps, Practical Automation |
-| **Version Control** | Git & GitHub |
+| **Core Language** | Python (Advanced scripting & automation) |
+| **Data & Analytics** | Pandas, NumPy |
+| **Machine Learning** | PyTorch |
+| **Interface & Web** | [e.g., Flask] |
+| **Workflow** | Git & GitHub |
 
----
 
 ### 🚀 Current Goals & Focus
 * 🔭 **Developing:** Dynamic Python web applications with robust framework architectures.
 * 🧠 **Learning:** Advanced software engineering patterns to make my tools more scalable.
-* 🤝 **Open To:** Collaboration on realistic, community-focused open-source projects.
 
----
 
 ### 📬 Let's Connect!
-* **LinkedIn:** [Insert Link]
-* **Email:** [Insert Email]
-* **Portfolio:** [Insert Link / Remove line if not applicable]
+* **LinkedIn:** linkedin.com/in/dev-shukla-570b46336
+* **Email:** devyanshshukla255@gmail.com
